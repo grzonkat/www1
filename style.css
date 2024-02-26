@@ -1,11 +1,10 @@
 body
 {
-    background-color: black;
-}
+    background-color: darkcyan;}
 div
 {
     border: solid;
     width: 200px;
     height: 200px;
-    background-color: aliceblue;
+    background-color: purple;
 }
